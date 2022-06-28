@@ -4,7 +4,7 @@
     「 Computer Science Student @ 🌟 <b>Polytechnic University of the Phillipines</b> 」<br>
     「 Awarded for all semesters taken as a @ 🎖️ <b>University Scholar</b> 」<br>
     「 Junior Software Engineer @ 🌲 <a target="_blank" href="https://www.linkedin.com/company/ethos-bytes-au/about/"><b>Ethos Bytes AU</b></a> 」<br>
-    「 <a target="_blank" href="https://twitter.com/xreoji"> 🐦Twitter</a> <a target="_blank" href="https://gitlab.com/JirroReo"> 🦊Gitlab</a> <a target="_blank" href="jiro.rf.gd">🌲Contact</a> 」<br>
+    「 <a target="_blank" href="https://twitter.com/xreoji"> 🐦Twitter</a> <a target="_blank" href="https://gitlab.com/JirroReo"> 🦊Gitlab</a> <a target="_blank" href="jirroreo.dev">🌲Contact</a> 」<br>
   </samp>
 </h3>
 
