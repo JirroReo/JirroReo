@@ -3,6 +3,7 @@
   <samp>
     「 Computer Science Student @ 🌟 <b>Polytechnic University of the Phillipines</b> 」<br>
     「 Awarded for all semesters taken as a @ 🎖️ <b>University Scholar</b> 」<br>
+    「 Web Development Lead @ 🕸️ <a target="_blank" href="https://www.linkedin.com/company/google-developer-student-club-pup-main//"><b>Google Dev Student Clubs PUP MNL</b></a> 」<br>
     「 Core Tech - Threat Hunting Intern @ 🧑‍💻 <a target="_blank" href="https://www.trendmicro.com/"><b>Trend Micro</b></a> 」<br>
     「 Junior Software Engineer @ 🌲 <a target="_blank" href="https://www.linkedin.com/company/ethos-bytes-au/about/"><b>Ethos Bytes AU</b></a> 」<br>
     「 <a target="_blank" href="https://twitter.com/xreoji"> 🐦Twitter</a> <a target="_blank" href="https://gitlab.com/JirroReo"> 🦊Gitlab</a> <a target="_blank" href="jirroreo.dev">📝Portfolio</a> 」<br>
