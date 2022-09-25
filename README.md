@@ -17,9 +17,9 @@
 
 - 🌱 I’m currently freelancing
 
-- 📃 Maybe we can get in touch?
-
 - 📫 Reach me at **jirroreo@duck.com**
+
+- 🐦 icon: @hcnone twitter
 
 <br>
 
