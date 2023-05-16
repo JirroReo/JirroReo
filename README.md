@@ -1,4 +1,4 @@
-<h1 align="center"><samp>Hi 👋, I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://jirroreo.dev">Jirro Dave Reoloso</a></b></samp></h1>
+<!-- <h1 align="center"><samp>Hi 👋, I am <b><a rel="nofollow noopener noreferrer" target="_blank" href="https://jirroreo.dev">Jirro Dave Reoloso</a></b></samp></h1> -->
 <h3 align="center"><br>
   <samp>
     「 Computer Science Student @ 🌟 <b>Polytechnic University of the Phillipines</b> 」<br>
