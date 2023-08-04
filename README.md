@@ -96,6 +96,6 @@
 
 <br>
 <p align="center">
-<h4 align="center">⚡<a rel="nofollow noopener noreferrer" target="_blank" href="https://jirroreo.dev">jirroreo.dev</a></h4>
+<h4 align="center">⚡<a rel="nofollow noopener noreferrer" target="_blank" href="https://jirroreo.netlify.app">jirroreo.dev</a></h4>
 </p>
 <br>
